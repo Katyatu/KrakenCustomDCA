@@ -1,0 +1,6 @@
+{
+  "testing": true,
+  "crypto": "btc",
+  "fiat": "usd",
+  "buyamount": 5
+}
